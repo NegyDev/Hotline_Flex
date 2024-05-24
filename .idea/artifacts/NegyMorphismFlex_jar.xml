@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NegyMorphismFlex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NegyMorphismFlex_jar</output-path>
+    <root id="archive" name="NegyMorphismFlex.jar">
+      <element id="module-output" name="NegyMorphismFlex" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/asm-6.0_ALPHA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
